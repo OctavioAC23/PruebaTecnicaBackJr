@@ -1,0 +1,1 @@
+update empleados set Sueldo = Sueldo * 1.1 where year(FechaIngreso) between 2000 and 2001
